@@ -1,19 +1,24 @@
+
+# Andrés David Covaleda Vargas
+# Clan gosling
+## CC 1014856052
+## andrescovaleda07@hotmail.com
 # prueba_desemp_m2
-Portfolio personal como **Fullstack Developer** con:  
-- Sección "About Me" y perfil profesional.  
-- Hobbies e integración con Spotify.  
-- Tecnologías dominadas y redes sociales interactivas.  
+Personal portfolio as a **Fullstack Developer** with:
+- "About Me" section and professional profile.
+- Hobbies and Spotify integration.
+- Mastered technologies and interactive social networks.
 
 ---
 
-##  Tecnologías  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Herramientas:** Flexbox, CSS Grid, Font Awesome  
-- **Hosting:** GitHub Pages  
+## Technologies
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Flexbox, CSS Grid, Font Awesome
+- **Hosting:** GitHub Pages
 
 ---
 
-## Documentación Oficial  
+## Official Documentation  
 - [HTML (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 - [CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
